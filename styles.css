@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #ffd700; /* Gold color for headings */
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: 2px solid #ffd700; /* Gold border */
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffd700; /* Gold background */
+    color: #000; /* Black text */
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e6c200; /* Slightly darker gold on hover */
+}
+
+#user-results, #repo-results {
+    margin-top: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ffd700; /* Gold border for divs */
+    border-radius: 5px;
+    background-color: #333; /* Dark grey background */
+}
+
+a {
+    color: #ffd700; /* Gold links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
