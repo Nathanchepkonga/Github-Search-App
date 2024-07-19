@@ -21,5 +21,6 @@ This project is a GitHub Search App that allows users to search for GitHub users
    git clone https://github.com/Nathanchepkonga/Github-Search-App.git
 
 ## View in site
+  https://nathangithubsearchapp.netlify.app/
 
    
